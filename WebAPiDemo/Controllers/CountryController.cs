@@ -87,7 +87,7 @@ namespace WebAPiDemo.Controllers
             return Ok(countries);
         }
 
-        [HttpGet("states/{CountryID}")]
+        [HttpGet("States/{CountryID}")]
         public  IActionResult GetStatesByCountryID(int CountryID)
         {
             if(CountryID <= 0) 

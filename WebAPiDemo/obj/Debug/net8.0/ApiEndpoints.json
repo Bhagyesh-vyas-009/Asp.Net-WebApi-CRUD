@@ -1,16 +1,6 @@
 [
   {
     "ContainingType": "WebAPiDemo.Controllers.CityController",
-    "Method": "GetAllCities",
-    "RelativePath": "api/City",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebAPiDemo.Controllers.CityController",
     "Method": "CityInsert",
     "RelativePath": "api/City",
     "HttpMethod": "POST",
@@ -73,6 +63,22 @@
       {
         "Name": "city",
         "Type": "WebAPiDemo.Models.CityModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPiDemo.Controllers.CityController",
+    "Method": "GetAllCities",
+    "RelativePath": "api/City/cities/{StateFilterID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StateFilterID",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -170,7 +176,7 @@
   {
     "ContainingType": "WebAPiDemo.Controllers.CountryController",
     "Method": "GetStatesByCountryID",
-    "RelativePath": "api/Country/states/{CountryID}",
+    "RelativePath": "api/Country/States/{CountryID}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

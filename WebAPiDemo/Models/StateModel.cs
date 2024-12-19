@@ -9,8 +9,8 @@
 
         public int CountryID { get; set; }
 
-        //public string CountryName { get; set; }
-
+        public string? CountryName { get; set; }
+        public int CityCount { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime ModifiedDate { get; set; }
     }

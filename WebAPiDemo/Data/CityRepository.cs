@@ -13,7 +13,7 @@ namespace WebAPiDemo.Data
             _connectionString = configuration.GetConnectionString("ConnectionString");
         }
 
-        public List<CityModel> GetAllCities()
+        public List<CityModel> GetAllCities(int FilterID)
         {
             var cities = new List<CityModel>();
 
@@ -23,6 +23,7 @@ namespace WebAPiDemo.Data
                 SqlCommand cmd = conn.CreateCommand();
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 cmd.CommandText = "PR_LOC_City_SelectAll";
+                cmd.Parameters.AddWithValue("@StateID", FilterID);
                 SqlDataReader reader = cmd.ExecuteReader();
                 while (reader.Read())
                 {
@@ -32,7 +33,9 @@ namespace WebAPiDemo.Data
                         CityName = reader["CityName"].ToString(),
                         CityCode = reader["CityCode"].ToString(),
                         StateID = Convert.ToInt32(reader["StateID"]),
+                        StateName= reader["StateName"].ToString(),
                         CountryID = Convert.ToInt32(reader["CountryID"]),
+                        CountryName = reader["CountryName"].ToString(),
                     });
                 }
                 return cities;

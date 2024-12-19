@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "HBgXTJ0rCHw=",
+  "dgSpecHash": "0bImH8FznGE=",
   "success": true,
-  "projectFilePath": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo\\WebAPiDemo\\WebAPiDemo.csproj",
+  "projectFilePath": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\WebAPiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhagy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\bhagy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\bhagy\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\bhagy\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\bhagy\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\bhagy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\bhagy\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.0\\microsoft.aspnetcore.jsonpatch.8.0.0.nupkg.sha512",
     "C:\\Users\\bhagy\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.0.nupkg.sha512",

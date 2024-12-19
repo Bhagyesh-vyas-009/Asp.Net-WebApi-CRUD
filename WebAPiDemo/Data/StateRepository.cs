@@ -32,7 +32,9 @@ namespace WebAPiDemo.Data
                         StateID = Convert.ToInt32(reader["StateID"]),
                         StateName = reader["StateName"].ToString(),
                         StateCode = reader["StateCode"].ToString(),
-                        CountryID = Convert.ToInt32(reader["CountryID"])
+                        CountryID = Convert.ToInt32(reader["CountryID"]),
+                        CityCount = Convert.ToInt32(reader["CityCount"]),
+                        CountryName = reader["CountryName"].ToString(),
                     });
                 }
                 return states;
@@ -57,7 +59,7 @@ namespace WebAPiDemo.Data
                     StateID = Convert.ToInt32(reader["StateID"]),
                     StateName = reader["StateName"].ToString(),
                     StateCode = reader["StateCode"].ToString(),
-                    CountryID = Convert.ToInt32(reader["CountryID"])
+                    CountryID = Convert.ToInt32(reader["CountryID"]),
                 };
             }
             return state;
@@ -95,7 +97,7 @@ namespace WebAPiDemo.Data
             return rowsAffected > 0;
         }
 
-        public bool UpdateState(StateModel state)
+        public bool UpdateState([Bind("StateName","StateCode","CountryID")]StateModel state)
         {
             SqlConnection conn = new SqlConnection(_connectionString);
             conn.Open();

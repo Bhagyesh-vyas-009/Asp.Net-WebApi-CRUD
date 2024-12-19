@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo\\WebAPiDemo\\WebAPiDemo.csproj": {}
+    "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\WebAPiDemo.csproj": {}
   },
   "projects": {
-    "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo\\WebAPiDemo\\WebAPiDemo.csproj": {
+    "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\WebAPiDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo\\WebAPiDemo\\WebAPiDemo.csproj",
+        "projectUniqueName": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\WebAPiDemo.csproj",
         "projectName": "WebAPiDemo",
-        "projectPath": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo\\WebAPiDemo\\WebAPiDemo.csproj",
+        "projectPath": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\WebAPiDemo.csproj",
         "packagesPath": "C:\\Users\\bhagy\\.nuget\\packages\\",
-        "outputPath": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo\\WebAPiDemo\\obj\\",
+        "outputPath": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bhagy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[8.0.0, )"

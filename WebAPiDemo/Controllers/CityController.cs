@@ -16,10 +16,10 @@ namespace WebAPiDemo.Controllers
             _cityRepository = cityRepository;
         }
 
-        [HttpGet]
-        public IActionResult GetAllCities()
+        [HttpGet("cities/{StateFilterID}")]
+        public IActionResult GetAllCities(int StateFilterID)
         {
-            var cities = _cityRepository.GetAllCities();
+            var cities = _cityRepository.GetAllCities(StateFilterID);
             return Ok(cities);
         }
 

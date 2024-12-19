@@ -1,4 +1,8 @@
+using FluentValidation.AspNetCore;
+using System;
+using System.Reflection;
 using WebAPiDemo.Data;
+using WebAPiDemo.Models;
 namespace WebAPiDemo
 {
     public class Program
@@ -9,11 +13,14 @@ namespace WebAPiDemo
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers()
+                .AddFluentValidation(c=>c.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddScoped<CityRepository>();
             builder.Services.AddScoped<StateRepository>();
             builder.Services.AddScoped<CountryRepository>();
+            //builder.Services.AddScoped<IValidator<CityModel>, CityValidator>();
+            //builder.Services.AddScoped<IValidator<CountryModel>, CountryValidator>();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
