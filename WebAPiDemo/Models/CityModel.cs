@@ -19,13 +19,4 @@ namespace WebAPiDemo.Models
         public DateTime CreatedDate { get; set; }
         public DateTime ModifiedDate { get; set; }
     }
-
-    public class CityValidator : AbstractValidator<CityModel>
-    {
-        public CityValidator()
-        {
-            RuleFor(x => x.CityName).Length(1,10);
-            RuleFor(x => x.CityCode).NotEmpty().WithMessage("dgvvdgvgdvdgdv");
-        }
-    }
 }

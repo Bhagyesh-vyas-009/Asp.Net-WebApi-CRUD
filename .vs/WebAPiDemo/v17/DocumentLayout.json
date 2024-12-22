@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\validators\\cityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\validators\\cityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\validators\\countryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\validators\\countryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\validators\\statevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\validators\\statevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|d:\\6-662\\adv dot net projects\\webapidemo - copy\\webapidemo\\webapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00B94026-90CF-4136-A58D-57AB1CCCE8CF}|WebAPiDemo\\WebAPiDemo.csproj|solutionrelative:webapidemo\\webapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPiDemo\\Program.cs",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Program.cs",
+              "RelativeToolTip": "WebAPiDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:08:44.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateValidator.cs",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Validators\\StateValidator.cs",
+              "RelativeDocumentMoniker": "WebAPiDemo\\Validators\\StateValidator.cs",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Validators\\StateValidator.cs",
+              "RelativeToolTip": "WebAPiDemo\\Validators\\StateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:05:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityValidator.cs",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Validators\\CityValidator.cs",
+              "RelativeDocumentMoniker": "WebAPiDemo\\Validators\\CityValidator.cs",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Validators\\CityValidator.cs",
+              "RelativeToolTip": "WebAPiDemo\\Validators\\CityValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:04:52.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryValidator.cs",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Validators\\CountryValidator.cs",
+              "RelativeDocumentMoniker": "WebAPiDemo\\Validators\\CountryValidator.cs",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Validators\\CountryValidator.cs",
+              "RelativeToolTip": "WebAPiDemo\\Validators\\CountryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:04:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebAPiDemo",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\WebAPiDemo.csproj",
+              "RelativeDocumentMoniker": "WebAPiDemo\\WebAPiDemo.csproj",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\WebAPiDemo.csproj",
+              "RelativeToolTip": "WebAPiDemo\\WebAPiDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T18:03:51.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateModel.cs",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Models\\StateModel.cs",
+              "RelativeDocumentMoniker": "WebAPiDemo\\Models\\StateModel.cs",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Models\\StateModel.cs",
+              "RelativeToolTip": "WebAPiDemo\\Models\\StateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:03:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "WebAPiDemo\\Models\\CityModel.cs",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Models\\CityModel.cs",
+              "RelativeToolTip": "WebAPiDemo\\Models\\CityModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:01:05.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Models\\CountryModel.cs",
+              "RelativeDocumentMoniker": "WebAPiDemo\\Models\\CountryModel.cs",
+              "ToolTip": "D:\\6-662\\Adv Dot Net Projects\\WebAPiDemo - Copy\\WebAPiDemo\\Models\\CountryModel.cs",
+              "RelativeToolTip": "WebAPiDemo\\Models\\CountryModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:00:59.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
